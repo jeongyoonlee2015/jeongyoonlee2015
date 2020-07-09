@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there I'm Joy 👋
+welcome to my GitHub. I am a undergraduate student in South Korea.<br>
+I'm interested in Digital forensics and Software Engineering.<br>
+
+#### 🔭  Languages
+
+#### 🌱  Role in society
+* A lead of DSC Korea
+* Lead of DSC JBNU
+
+#### 😄  What I like , Das, was ich magst du magst
+
+#### 💬  How can we meet
 
 <!--
 **jeongyoonlee2015/jeongyoonlee2015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
