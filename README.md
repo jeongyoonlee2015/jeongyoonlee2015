@@ -1,5 +1,5 @@
 ### Hi there I'm Joy 👋
-welcome to my GitHub. <br>
+Welcome to my GitHub. <br>
 I am an undergraduate student in South Korea.<br>
 I'm interested in Digital forensics and Software Engineering.<br>
 
@@ -15,6 +15,8 @@ I'm interested in Digital forensics and Software Engineering.<br>
 #### 😄  What I like , Das, was ich magst du magst
 
 #### 💬  How can we meet
+
+#### 👯 I’m looking to collaborate on
 
 <!--
 **jeongyoonlee2015/jeongyoonlee2015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
