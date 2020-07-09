@@ -1,12 +1,16 @@
 ### Hi there I'm Joy 👋
-welcome to my GitHub. I am an undergraduate student in South Korea.<br>
+welcome to my GitHub. <br>
+I am an undergraduate student in South Korea.<br>
 I'm interested in Digital forensics and Software Engineering.<br>
 
 #### 🔭  Languages
+* Dart 
+* C 
+* Python 
 
 #### 🌱  Role in society
-* A lead of DSC Korea
-* Lead of DSC JBNU
+* A lead of [DSC Korea]()
+* Lead of [DSC JBNU](https://github.com/DSCJBNU-KR)
 
 #### 😄  What I like , Das, was ich magst du magst
 
