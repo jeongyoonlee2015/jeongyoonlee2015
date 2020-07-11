@@ -4,18 +4,16 @@ I am an undergraduate student in South Korea.<br>
 I'm interested in Digital forensics and Software Engineering.<br>
 
 
-| 🔭  Languages|🌱  Role in society|😄  What I like|
-|:---:|:---:|:---:|
-|**Dart**|A lead of [DSC Korea](https://developers.google.com/)|Brainstorming|
-|**C**|Lead of [DSC JBNU](https://github.com/DSCJBNU-KR)||
-|**Python**|||
+| 🔭  Languages|🌱  Role in society|😄  What I like|💬  How can we meet|
+|:---:|:---:|:---:|:---:|
+|**Dart**|A lead of [DSC Korea](https://developers.google.com/)|Brainstorming|[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeongyoonlee2015/?locale=en_US)](https://www.linkedin.com/in/jeongyoonlee2015/?locale=en_US)|
+|**C**|Lead of [DSC JBNU](https://github.com/DSCJBNU-KR)||[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/happyjoy2005)](https://www.facebook.com/happyjoy2005)|
+|**Python**|||[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:happyjoy2005@gmail.com)](mailto:happyjoy2005@gmail.com)|
 
 
 
 #### 💬  How can we meet
 > [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeongyoonlee2015/?locale=en_US)](https://www.linkedin.com/in/jeongyoonlee2015/?locale=en_US) <br>
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/happyjoy2005)](https://www.facebook.com/happyjoy2005)<br>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:happyjoy2005@gmail.com)](mailto:happyjoy2005@gmail.com)
 
 
 
