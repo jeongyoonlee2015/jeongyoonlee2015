@@ -3,16 +3,14 @@ Welcome to my GitHub. <br>
 I am an undergraduate student in South Korea.<br>
 I'm interested in Digital forensics and Software Engineering.<br>
 
-#### 🔭  Languages
-* Dart 
-* C 
-* Python 
 
-#### 🌱  Role in society
-* A lead of [DSC Korea](https://developers.google.com/)
-* Lead of [DSC JBNU](https://github.com/DSCJBNU-KR)
+| 🔭  Languages|🌱  Role in society|😄  What I like|
+|:---:|:---:|:---:|
+|**Dart**|A lead of [DSC Korea](https://developers.google.com/)|Brainstorming|
+|**C**|Lead of [DSC JBNU](https://github.com/DSCJBNU-KR)||
+|**Python**|||
 
-#### 😄  What I like
+
 
 #### 💬  How can we meet
 > [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeongyoonlee2015/?locale=en_US)](https://www.linkedin.com/in/jeongyoonlee2015/?locale=en_US) <br>
