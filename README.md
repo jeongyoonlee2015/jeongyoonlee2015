@@ -7,9 +7,9 @@ I'm interested in Digital forensics and Software Engineering.<br>
 	
 | 🔭  Languages|🌱  Role in society|💬  How can we meet|
 |:---:|:---:|:---:|
-|**Dart**|Preparing for graduate school|[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeongyoonlee2015/?locale=en_US)](https://www.linkedin.com/in/jeongyoonlee2015/?locale=en_US)|
+|**Python**|Preparing for graduate school|[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeongyoonlee2015/?locale=en_US)](https://www.linkedin.com/in/jeongyoonlee2015/?locale=en_US)|
 |**C**|Lead of [DSC JBNU](https://github.com/DSCJBNU-KR) (19-20)|[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:happyjoy2005@gmail.com)](mailto:happyjoy2005@gmail.com)|
-|**Python**|A lead of [DSC Korea](https://developers.google.com/) (19-20)||
+|**Dart**|A lead of [DSC Korea](https://developers.google.com/) (19-20)||
 
 
 
