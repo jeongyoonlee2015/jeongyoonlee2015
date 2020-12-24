@@ -3,10 +3,11 @@ I am an undergraduate student in South Korea.<br>
 I'm interested in Digital forensics and Software Engineering.<br>
 
 
-	
+<br>
+
 🌱  Role in society<br>
 Preparing for graduate school<br>
-<br><br><br>
+
 💬  How can we meet<br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeongyoonlee2015/?locale=en_US)](https://www.linkedin.com/in/jeongyoonlee2015/?locale=en_US)<br>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:happyjoy2005@gmail.com)](mailto:happyjoy2005@gmail.com)<br>
