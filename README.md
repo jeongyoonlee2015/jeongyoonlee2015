@@ -1,13 +1,12 @@
 ### Hi there I'm Joy 👋
-I am an undergraduate student in South Korea.<br>
+I am an engineer in South Korea.<br>
 I'm interested in Digital forensics and Software Engineering.<br>
-
 
 <br>
 
 🌱  Role in society<br>
-Preparing for graduate school<br>
-
+🤓 Love Cryptography & Forensics research<br>
+🕵 Personal Information Detection & Data Encryption Engineer(Trainee)
 
 
 
