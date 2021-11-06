@@ -5,6 +5,9 @@ I'm interested in Digital forensics and Software Engineering.<br>
 <br>
 
 🌱  Role in society<br>
+
+<a href="[연결할 링크]" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-#326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>
+
 🤓 Love Cryptography & Forensics research<br>
 🕵 Personal Information Detection & Data Encryption Engineer(Trainee)
 
