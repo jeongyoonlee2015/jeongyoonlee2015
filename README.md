@@ -4,13 +4,17 @@ I'm interested in Digital forensics and Software Engineering.<br>
 
 <br>
 
+
+🔭 I’m currently learning and working on ... <br>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
+
+
 🌱  Role in society<br>
-
-<a href="[연결할 링크]" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-#326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>
-
 🤓 Love Cryptography & Forensics research<br>
-🕵 Personal Information Detection & Data Encryption Engineer(Trainee)
-
+🕵 Personal Information Detection & Data Encryption Engineer
 
 
 <!--
