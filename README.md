@@ -1,8 +1,5 @@
 ### Hi there I'm Joy 👋
 I am an IT security manager in South Korea.<br>
-I'm interested in Digital forensics and Software Engineering.<br>
-
-<br>
 
 
 🔭 I’m currently learning and working on ... <br>
