@@ -1,40 +1,44 @@
-### Hi there I'm Joy 👋
-I am an IT security manager in South Korea.<br>
+## 🌟 About Me
+
+- 🌍 **Interested in job opportunities in Canada** (Valid Work Permit) 🇨🇦 and **Germany** 🇩🇪
+- 👨‍💻 Security engineer with **3+ years** of real-world experience fighting vulnerabilities and protecting data  
+- 🔐 Focused on **encryption solutions**, **key management**, and **compliance**
+- ☁️ Surviving and thriving on **AWS** & **Azure**
+- 🎓 Currently a Master's student in **Information Security** at **Dongguk University(2025-)** 🧡
+	- 🎓 B.S. in **Software Engineering** from **Jeonbuk National University(2018-2021)** 💜
+	- 🚀 Former **Lead of GDSC KR (2019–2020)** ❤️💙💚💛
+- 🕵️‍♂️ Studying **cybercrime**, **cryptography**, and how to sleep with one eye open 👁️  
+
+---
+
+## ⚙️ Tech
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/AIX_GPFS-000000?style=flat&logo=ibm&logoColor=white" />
+</p>
+
+---
+
+## 🌱 Role in Society
+
+- 🤓 Lover of **Cryptography**, and a good cup of coffee ☕  
+- 🧠 Constantly learning, constantly encrypting  
+- 📚 Probably working on an assignment right now
+  
+---
+
+## 🔗 Let’s Connect!
+
+<p align="left">
+  <a href="mailto:happyjoy2005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /> </a>
+  <a href="https://www.linkedin.com/in/jeongyoonlee2015/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /> </a>
+</p>
 
 
-🔭 I’m currently learning and working on ... <br>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
-
-
-🌱  Role in society<br>
-🤓 Love Cryptography & Forensics research<br>
-🕵 Personal Information Detection & Data Encryption Engineer
-
-
-<!--
-**jeongyoonlee2015/jeongyoonlee2015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<div align=center> </div>
-
-	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongyoonlee2015)](https://hits.seeyoufarm.com) 
-	
-  </div>
--->
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongyoonlee2015&theme=default&show_icons=true)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongyoonlee2015&theme=default&show_icons=true)-->
 
